@@ -2,5 +2,5 @@ implimentation of a button using <Pressable> with a <Text> all in 'react-native'
 <Image> to display the image
 <FontAwesome> to customize the button.
 
-image-picker Library
+- image-picker Library
 this will enable us to access the phones media library and be able to pick an image.
